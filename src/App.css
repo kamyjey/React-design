@@ -1,0 +1,106 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #2d3436;
+}
+
+.navbar-brand {
+  position: absolute;
+  left: 15rem;
+  color: #21aeea !important;
+}
+
+.navbar-brand:hover {
+  color: #21aeea !important;
+}
+
+.navbar-collapse {
+  margin-left: 38rem;
+  font-size: 16px;
+}
+
+.nav-link {
+  color: #21aeea !important;
+  transition: all 0.3s ease;
+}
+
+.nav-link:hover {
+  text-shadow:
+    0 0 7px #21aeea,
+    0 0 10px #21aeea,
+    0 0 21px #21aeea,
+    0 0 42px #21aeea,
+    0 0 82px #21aeea,
+    0 0 92px #21aeea,
+    0 0 102px #21aeea,
+    0 0 151px #21aeea;
+  transition: all 0.3s ease;
+}
+
+.nav-item {
+  margin-right: 2.50rem;
+}
+
+.bg-body-tertiary {
+  background-color: #2d3436 !important;
+  box-shadow: 0 0 20px #000;
+}
+
+.mobile-head {
+  background-image: url("./assets/vecteezy_ai-generated-a-bright-round-frame-in-foliage_36759159.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  height: 1000px;
+  width: 100%;
+}
+
+.mobile-head .mobile-head-dark {
+  background-color: rgb(0, 0, 0, 0.5);
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+}
+
+.react-neon {
+  transition: all 0.3s ease;
+}
+
+.react-neon:hover {
+  color: #21aeea;
+  text-shadow:
+    0 0 7px #21aeea,
+    0 0 10px #21aeea,
+    0 0 21px #21aeea,
+    0 0 42px #21aeea,
+    0 0 82px #21aeea,
+    0 0 92px #21aeea,
+    0 0 102px #21aeea,
+    0 0 151px #21aeea;
+  transition: all 0.3s ease;
+}
+
+.disappointed{
+  transition: all 0.3s ease;
+}
+
+.disappointed:hover {
+  color: #21aeea;
+  text-shadow:
+    0 0 7px #21aeea,
+    0 0 10px #21aeea,
+    0 0 21px #21aeea,
+    0 0 42px #21aeea,
+    0 0 82px #21aeea,
+    0 0 92px #21aeea,
+    0 0 102px #21aeea,
+    0 0 151px #21aeea;
+  transition: all 0.3s ease;
+}
